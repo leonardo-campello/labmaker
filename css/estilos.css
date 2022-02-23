@@ -6,7 +6,7 @@
     background: #018036;
 }
 
-.header-get-a-quote .btn-primary {
+.navbar-light ul.navbar-nav > li > a.btn-primary {
     color: #FFF !important;
 }
 
