@@ -5,3 +5,12 @@
 .btn-primary {
     background: #018036;
 }
+
+.header-get-a-quote .btn-primary {
+    color: #FFF !important;
+}
+
+.header-get-a-quote .btn-primary:hover {
+    background: #006028;
+    color: #ffffff !important;
+}
