@@ -16,7 +16,7 @@
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
-              <h2 class="box-slide-title">IFSertãoPE</h2>
+              <h2 class="box-slide-title">IFSertãoPE Campus Salgueiro</h2>
               <h3 class="box-slide-sub-title">Lab Maker</h3>
               <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa!</p>
               <p>
