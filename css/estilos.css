@@ -14,3 +14,11 @@
     background: #006028;
     color: #ffffff !important;
 }
+
+.dropdown-menu {
+    border-top: 2px solid #fe1718;
+}
+
+.dropdown-menu li a:hover, .dropdown-menu li a:focus {
+    color: #018036;
+}
