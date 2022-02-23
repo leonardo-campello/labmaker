@@ -82,7 +82,7 @@
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
                 <a class="d-block" href="index.html">
                   <!-- <img loading="lazy" src="images/logo.png" alt="Constra"> -->
-                  <img loading="lazy" src="images/Sertão Maker 02.webp" alt="LabMaker">
+                  <img loading="lazy" src="images/logo-labmaker.webp" alt="LabMaker">
                 </a>
             </div><!-- logo end -->
   
