@@ -65,6 +65,9 @@
                       <a title="Linkdin" href="https://github.com/themefisher.com">
                           <span class="social-icon"><i class="fab fa-github"></i></span>
                       </a>
+                      <a title="YouTube" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw">
+                          <span class="social-icon"><i class="fab fa-youtube"></i></span>
+                      </a>
                     </li>
                 </ul>
               </div>
