@@ -157,7 +157,7 @@
 <!--/ Header end -->
 
 <div class="banner-carousel banner-carousel-2 mb-0">
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/banner.png)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/banner01.jpg)">
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
@@ -172,7 +172,7 @@
     </div>
   </div>
 
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg5.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/banner.png)">
     <div class="slider-content text-left">
         <div class="container">
           <div class="box-slider-content">
