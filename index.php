@@ -33,6 +33,8 @@
   <!-- Template styles-->
   <link rel="stylesheet" href="css/style.css">
 
+  <link rel="stylesheet" href="css/estilos.css">
+
 </head>
 <body>
   <div class="body-inner">
