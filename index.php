@@ -96,22 +96,11 @@
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav ml-auto align-items-center">
                       <li class="nav-item dropdown active">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="index.html">Home One</a></li>
-                            <li class="active"><a href="index-2.html">Home Two</a></li>
-                          </ul>
+                          <a href="/" class="nav-link dropdown-toggle" data-toggle="dropdown">Home</a>                          
                       </li>
 
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nossa história <i class="fa fa-angle-down"></i></a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="team.html">Our People</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
-                          </ul>
+                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nossa história</a>                          
                       </li>
 
                       <li class="nav-item dropdown">
@@ -121,25 +110,29 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Academia Maker<i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="projects.html">Projects All</a></li>
-                            <li><a href="projects-single.html">Projects Single</a></li>
+                            <li><a href="projects.html">Artesanato Digital</a></li>
+                            <li><a href="projects-single.html">Programação com Arduino</a></li>
+                            <li><a href="projects-single.html">Cidades para brincar</a></li>
+                            <li><a href="projects-single.html">Entrevistas Maker</a></li>
+                            <li><a href="projects-single.html">Sertão Maker</a></li>
+                            <li><a href="projects-single.html">Sertão Maker: Empreendedorismo e Inovação</a></li>
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Comunidade Maker<i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html">Services All</a></li>
-                            <li><a href="service-single.html">Services Single</a></li>
+                            <li><a href="services.html">Equipamentos IF Salgueiro</a></li>
+                            <li><a href="service-single.html">Equipamentos Labs Makers</a></li>
                           </ul>
                       </li>
 
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Agenda<i class="fa fa-angle-down"></i></a>                          
+                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Agenda</a>                          
                       </li>
               
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Contato <i class="fa fa-angle-down"></i></a>                          
+                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Contato</a>                          
                       </li>
               
                       <li class="header-get-a-quote">
@@ -161,16 +154,15 @@
 <!--/ Header end -->
 
 <div class="banner-carousel banner-carousel-2 mb-0">
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg4.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/banner.png)">
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
-              <h2 class="box-slide-title">17 Years Of Excellence In</h2>
-              <h3 class="box-slide-sub-title">Construction Industry</h3>
-              <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                thinking team looking for talent like.</p>
+              <h2 class="box-slide-title">IFSertãoPE</h2>
+              <h3 class="box-slide-sub-title">Lab Maker</h3>
+              <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa!</p>
               <p>
-                <a href="services.html" class="slider btn btn-primary">Our Service</a>
+                <a href="services.html" class="slider btn btn-primary">Saiba mais</a>
               </p>
           </div>
         </div>
