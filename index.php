@@ -16,9 +16,9 @@
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
-              <h2 class="box-slide-title">IFSertãoPE Campus Salgueiro</h2>
+              <h2 class="box-slide-title">IFSertãoPE, Campus Salgueiro</h2>
               <h3 class="box-slide-sub-title">Lab Maker</h3>
-              <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa!</p>
+              <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa! Venha conhecer mais sobre a experiência Maker e fazer a diferença.</p>
               <p>
                 <a href="services.html" class="slider btn btn-primary">Saiba mais</a>
               </p>
@@ -32,11 +32,10 @@
         <div class="container">
           <div class="box-slider-content">
               <div class="box-slider-text">
-                <h2 class="box-slide-title">When Services Matters</h2>
-                <h3 class="box-slide-sub-title">Your Choice is Simple</h3>
-                <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                    thinking team looking for talent like.</p>
-                <p><a href="about.html" class="slider btn btn-primary" aria-label="about-us">Know Us</a></p>
+                <h2 class="box-slide-title">Confira nosso evento</h2>
+                <h3 class="box-slide-sub-title">Sertão Maker</h3>
+                <p class="box-slide-description">Evento realizado para apresentar as propostas da Cultura Maker realizadas com a implantação do Lab Maker no IFSertãoPE - Campus Salgueiro. Assista as palestras e oficinas que demonstram como podemos trabalhar neste universo maker.</p>
+                <p><a href="about.html" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
               </div>
           </div>
         </div>
@@ -50,12 +49,12 @@
         <div class="row">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">We understand your needs on construction</h3>
+                <h3 class="action-title">Faça parte da Cultura Maker e junte-se a nós</h3>
               </div>
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-primary" href="contact.html">Request Quote</a>
+                <a class="btn btn-primary" href="contact.html">Enviar mensagem</a>
               </div>
           </div><!-- col end -->
         </div><!-- row end -->
@@ -65,56 +64,81 @@
 
 <section id="ts-features" class="ts-features pb-2">
   <div class="container">
+    <div class="row text-center">
+        <div class="col-12">
+          <h2 class="section-title">Conheça os Pilares da</h2>
+          <h3 class="section-sub-title">Cultura Maker</h3>
+        </div>
+    </div>
+
     <div class="row">
-        <div class="col-lg-4 col-md-6 mb-5">
+        <div class="col-lg-3 col-md-6 mb-5">
           <div class="ts-service-box">
               <div class="ts-service-image-wrapper">
-                <img loading="lazy" class="w-100" src="images/services/service1.jpg" alt="service-image">
+                <img loading="lazy" class="w-100" src="images/services/cultura-maker.png" alt="service-image">
               </div>
               <div class="d-flex">
                 <div class="ts-service-box-img">
-                    <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon" />
+                    <img loading="lazy" src="images/icon-image/criatividade.svg" alt="service-icon" />
+                    <h3 class="service-box-title"><a href="service-single.html">Criatividade</a></h3>
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Zero Harm Everyday</a></h3>
-                    <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                    <p>Por meio da criatividade os Makers são instruídos a fabricar com as próprias mãos e a buscar soluções simples para problemas complexos.</p>
+                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service1 end -->
         </div><!-- Col 1 end -->
 
-        <div class="col-lg-4 col-md-6 mb-5">
+        <div class="col-lg-3 col-md-6 mb-5">
           <div class="ts-service-box">
               <div class="ts-service-image-wrapper">
-                <img loading="lazy" class="w-100" src="images/services/service2.jpg" alt="service-image">
+                <img loading="lazy" class="w-100" src="images/services/colaboratividade.png" alt="service-image">
               </div>
               <div class="d-flex">
                 <div class="ts-service-box-img">
-                    <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon" />
+                    <img loading="lazy" src="images/icon-image/colaboratividade.svg" alt="service-icon" />
+                    <h3 class="service-box-title"><a href="service-single.html">Colaboratividade</a></h3>
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Virtual Construction</a></h3>
-                    <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                    <p>Cooperar com os seus pares, levando em consideração um trabalho em rede e fazendo com que os saberes se somem é a premissa da colaboratividade.</p>
+                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service2 end -->
         </div><!-- Col 2 end -->
 
-        <div class="col-lg-4 col-md-6 mb-5">
+        <div class="col-lg-3 col-md-6 mb-5">
           <div class="ts-service-box">
               <div class="ts-service-image-wrapper">
-                <img loading="lazy" class="w-100" src="images/services/service3.jpg" alt="service-image">
+                <img loading="lazy" class="w-100" src="images/services/sustentabilidade.png" alt="service-image">
               </div>
               <div class="d-flex">
                 <div class="ts-service-box-img">
-                    <img loading="lazy" src="images/icon-image/service-icon3.png" alt="service-icon" />
+                    <img loading="lazy" src="images/icon-image/sustentabilidade.svg" alt="service-icon" />
+                    <h3 class="service-box-title"><a href="service-single.html">Sustentabilidade</a></h3>
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Build To Last</a></h3>
-                    <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                    <p>A sustentabilidade propõe que o desperdício de materiais deve ser evitado e que se deve ressignificar usos e funções quando possível.</p>
+                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                </div>
+              </div>
+          </div><!-- Service3 end -->
+        </div><!-- Col 3 end -->
+        
+        <div class="col-lg-3 col-md-6 mb-5">
+          <div class="ts-service-box">
+              <div class="ts-service-image-wrapper">
+                <img loading="lazy" class="w-100" src="images/services/escalabilidade.png" alt="service-image">
+              </div>
+              <div class="d-flex">
+                <div class="ts-service-box-img">
+                    <img loading="lazy" src="images/icon-image/escalabilidade.svg" alt="service-icon" />
+                    <h3 class="service-box-title"><a href="service-single.html">Escalabilidade</a></h3>
+                </div>
+                <div class="ts-service-info">
+                    <p>Criar soluções que sejam passíveis de serem produzidas em escala e com um custo acessível é o indicado por meio do quarto pilar, a escalabilidade.</p>
+                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service3 end -->
@@ -126,8 +150,16 @@
 <section id="facts" class="facts-area dark-bg">
   <div class="container">
     <div class="facts-wrapper">
-        <div class="row">
-          <div class="col-md-3 col-sm-6 ts-facts">
+        <div class="row text-center">
+            <div class="col-12">
+              <h2 class="section-title">Visite nosso</h2>
+              <h3 class="section-sub-title">Canal do YouTube</h3>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <iframe height="345" width="550" frameBorder="0" 
+            src="https://www.youtube.com/embed/xwsA3_akxZg?rel=0&modestbranding=1&controls=0"></iframe>
+          <!-- <div class="col-md-3 col-sm-6 ts-facts">
               <div class="ts-facts-img">
                 <img loading="lazy" src="images/icon-image/fact1.png" alt="facts-img">
               </div>
@@ -135,9 +167,9 @@
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
                 <h3 class="ts-facts-title">Total Projects</h3>
               </div>
-          </div><!-- Col end -->
+          </div>Col end -->
 
-          <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-sm-0">
+          <!-- <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-sm-0">
               <div class="ts-facts-img">
                 <img loading="lazy" src="images/icon-image/fact2.png" alt="facts-img">
               </div>
@@ -145,9 +177,9 @@
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="647">0</span></h2>
                 <h3 class="ts-facts-title">Staff Members</h3>
               </div>
-          </div><!-- Col end -->
+          </div>Col end -->
 
-          <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
+          <!-- <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
                 <img loading="lazy" src="images/icon-image/fact3.png" alt="facts-img">
               </div>
@@ -155,9 +187,9 @@
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="4000">0</span></h2>
                 <h3 class="ts-facts-title">Hours of Work</h3>
               </div>
-          </div><!-- Col end -->
+          </div>Col end -->
 
-          <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
+          <!-- <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
                 <img loading="lazy" src="images/icon-image/fact4.png" alt="facts-img">
               </div>
@@ -165,96 +197,77 @@
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="44">0</span></h2>
                 <h3 class="ts-facts-title">Countries Experience</h3>
               </div>
-          </div><!-- Col end -->
+          </div>Col end -->
 
         </div> <!-- Facts end -->
+    </div>
+    <div id="btn-youtube" class="row justify-content-center">
+      <a class="btn btn-lg" href="#"><span class="social-icon"><i class="fab fa-youtube"></i></span>Visitar canal no YouTube</a>
     </div>
     <!--/ Content row end -->
   </div>
   <!--/ Container end -->
 </section><!-- Facts end -->
 
-<section id="ts-service-area" class="ts-service-area pb-0">
-  <div class="container">
+<section id="ts-service-area" class="ts-service-area pb-0 pt-0">
+  <div class="container-fluid">
     <div class="row text-center">
-        <div class="col-12">
-          <h2 class="section-title">We Are Specialists In</h2>
-          <h3 class="section-sub-title">What We Do</h3>
+        <div class="col-6 mt-5">
+          <h2 class="section-title">Saiba mais sobre a nossa</h2>
+          <h3 class="section-sub-title">Comunidade Maker</h3>
+          <div class="row">
+            <div class="col-12">
+              <p>Pensando no espírito maker, o Lab Maker oferece uma comunicação para que os makers de plantão possam trabalhar juntos, interagindo e compartilhando ideias, conhecimentos e muita criatividade.</p>
+              <div>
+                <div class="col-10">
+                  <div class="row">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h4>Campus Salgueiro - Lab Maker</h4>
+                  </div>
+                  <div class="row text-left">
+                    <div class="col-12">
+                      <p class="mb-0"><strong>Coordenador:</strong> Marcelo Santos</p>
+                      <p class="mb-0"><strong>Endereço:</strong> BR 232, Km 504, sentido Recife, Zona Rural</p>
+                      <p>CEP: 56000-000. Salgueiro/PE - Brasil</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12">
+                  <div class="row">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h4>Campus Floresta - Oficina Maker</h4>
+                  </div>
+                  <div class="row text-left">
+                    <div class="col-12">
+                      <p class="mb-0"><strong>Coordenador:</strong> Herton Vilarim</p>
+                      <p class="mb-0"><strong>Endereço:</strong> Rua Projetada, S/N, Caetano II - N4</p>
+                      <p>CEP: 56400-000. Floresta/PE - Brasil</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12">
+                  <div class="row">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h4>Campus Petrolina - Oficina Maker</h4>
+                  </div>
+                  <div class="row text-left">
+                    <div class="col-12">
+                      <p class="mb-0"><strong>Coordenador:</strong> Maria das Neves de Almeida</p>
+                      <p class="mb-0"><strong>Endereço:</strong> Rua Maria Luzia de Araújo Gomes Cabral, 791 - João de Deus</p>
+                      <p class="mb-5">CEP: 56316-686. Petrolina/PE - Brasil</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>            
+          </div>
+        </div>
+        <div class="col-6" style="background: url('images/services/comunidade-maker.jpeg') fixed 0 0;">
         </div>
     </div>
     <!--/ Title row end -->
-
-    <div class="row">
-        <div class="col-lg-4">
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Home Construction</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 1 end -->
-
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Building Remodels</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 2 end -->
-
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon3.png"  alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Interior Design</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 3 end -->
-
-        </div><!-- Col end -->
-
-        <div class="col-lg-4 text-center">
-          <img loading="lazy" class="img-fluid" src="images/services/service-center.jpg" alt="service-avater-image">
-        </div><!-- Col end -->
-
-        <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon4.png" alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Exterior Design</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 4 end -->
-
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon5.png" alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Renovation</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 5 end -->
-
-          <div class="ts-service-box d-flex">
-              <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon6.png" alt="service-icon">
-              </div>
-              <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Safety Management</a></h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
-              </div>
-          </div><!-- Service 6 end -->
-        </div><!-- Col end -->
-    </div><!-- Content row end -->
-
   </div>
   <!--/ Container end -->
 </section><!-- Service end -->
@@ -263,8 +276,8 @@
   <div class="container">
     <div class="row text-center">
       <div class="col-lg-12">
-        <h2 class="section-title">Work of Excellence</h2>
-        <h3 class="section-sub-title">Recent Projects</h3>
+        <h2 class="section-title">Nossos Projetos da</h2>
+        <h3 class="section-sub-title">Academia Maker</h3>
       </div>
     </div>
     <!--/ Title row end -->
@@ -273,25 +286,19 @@
       <div class="col-12">
         <div class="shuffle-btn-group">
           <label class="active" for="all">
-            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Show All
+            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Todos
           </label>
           <label for="commercial">
-            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Commercial
+            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Artesanato Digital
           </label>
           <label for="education">
-            <input type="radio" name="shuffle-filter" id="education" value="education">Education
+            <input type="radio" name="shuffle-filter" id="education" value="education">Programação com Arduino
           </label>
           <label for="government">
-            <input type="radio" name="shuffle-filter" id="government" value="government">Government
+            <input type="radio" name="shuffle-filter" id="government" value="government">Cidades para Brincar
           </label>
           <label for="infrastructure">
-            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Infrastructure
-          </label>
-          <label for="residential">
-            <input type="radio" name="shuffle-filter" id="residential" value="residential">Residential
-          </label>
-          <label for="healthcare">
-            <input type="radio" name="shuffle-filter" id="healthcare" value="healthcare">Healthcare
+            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Impressão 3D
           </label>
         </div><!-- project filter end -->
 
@@ -301,16 +308,16 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project1.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project1.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/artesanato-digital.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/artesanato-digital.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Capital Teltway Building</a>
+                    <a href="projects-single.html">Artesanato Digital</a>
                   </h3>
-                  <p class="project-cat">Commercial, Interiors</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
@@ -318,16 +325,16 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project2.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project2.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/cidades-brincar01.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/cidades-brincar01.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ghum Touch Hospital</a>
+                    <a href="projects-single.html">Cidades para Brincar</a>
                   </h3>
-                  <p class="project-cat">Healthcare</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
@@ -335,16 +342,16 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project3.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/impressao-3d-01.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/impressao-3d-01.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">TNT East Facility</a>
+                    <a href="projects-single.html">Impressão 3D</a>
                   </h3>
-                  <p class="project-cat">Government</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
@@ -352,16 +359,16 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project4.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project4.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/impressao-3d-02.png" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/impressao-3d-02.png" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Narriot Headquarters</a>
+                    <a href="projects-single.html">Impressão 3D</a>
                   </h3>
-                  <p class="project-cat">Infrastructure</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
@@ -369,8 +376,8 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project5.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project5.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/artesanato-digital02.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/artesanato-digital02.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -386,8 +393,8 @@
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project6.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project6.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/projects/cidades-brincar02.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/projects/cidades-brincar02.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -405,7 +412,7 @@
 
       <div class="col-12">
         <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">View All Projects</a>
+          <a class="btn btn-primary" href="projects.html">Ver tudo</a>
         </div>
       </div>
 
@@ -418,22 +425,20 @@
   <div class="container">
     <div class="row">
         <div class="col-lg-6">
-          <h3 class="column-title">Testimonials</h3>
+          <h3 class="column-title">Depoimentos</h3>
 
           <div id="testimonial-slide" class="testimonial-slide">
               <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
-                      Question ran over her cheek When she reached the first hills of the Italic Mountains, she had a last
-                      view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the
-                      subline of her own road.
+                    O movimento maker é potencializador das oportunidades de empreender e inovar, pois dentro de um espaço maker o limite é a imaginação.
                     </span>
 
                     <div class="quote-item-footer">
-                      <img loading="lazy" class="testimonial-thumb" src="images/clients/testimonial1.png" alt="testimonial">
+                      <img loading="lazy" class="testimonial-thumb" src="images/time/marcelo-santos.jpeg" alt="testimonial">
                       <div class="quote-item-info">
-                          <h3 class="quote-author">Gabriel Denis</h3>
-                          <span class="quote-subtext">Chairman, OKT</span>
+                          <h3 class="quote-author">Marcelo Santos</h3>
+                          <span class="quote-subtext">Coordenador do Lab Maker</span>
                       </div>
                     </div>
                 </div><!-- Quote item end -->
@@ -484,42 +489,42 @@
 
         <div class="col-lg-6 mt-5 mt-lg-0">
 
-          <h3 class="column-title">Happy Clients</h3>
+          <h3 class="column-title">Nossos Parceiros</h3>
 
           <div class="row all-clients">
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client1.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/3dlab.webp" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 1 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client2.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/locus-inovacao.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 2 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client3.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/slim-3d.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 3 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client4.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/gpro.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 4 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client5.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/gepet.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 5 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client6.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/geasp.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 6 end -->
 
@@ -538,23 +543,23 @@
     <div class="row">
         <div class="col-md-4">
           <div class="subscribe-call-to-acton">
-              <h3>Can We Help?</h3>
-              <h4>(+9) 847-291-4353</h4>
+              <h3>Ficou com dúvida?</h3>
+              <h4>(81) 99838-6191 </h4>
           </div>
         </div><!-- Col end -->
 
         <div class="col-md-8">
           <div class="ts-newsletter row align-items-center">
               <div class="col-md-5 newsletter-introtext">
-                <h4 class="text-white mb-0">Newsletter Sign-up</h4>
-                <p class="text-white">Latest updates and news</p>
+                <h4 class="text-white mb-0">Novidades do Lab Maker</h4>
+                <p class="text-white">Cadastre seu e-mail</p>
               </div>
 
               <div class="col-md-7 newsletter-form">
                 <form action="#" method="post">
                     <div class="form-group">
-                      <label for="newsletter-email" class="content-hidden">Newsletter Email</label>
-                      <input type="email" name="email" id="newsletter-email" class="form-control form-control-lg" placeholder="Your your email and hit enter" autocomplete="off">
+                      <label for="newsletter-email" class="content-hidden">Novidades por E-mail</label>
+                      <input type="email" name="email" id="newsletter-email" class="form-control form-control-lg" placeholder="Digite seu e-mail e aperte ENTER" autocomplete="off">
                     </div>
                 </form>
               </div>
@@ -571,8 +576,8 @@
   <div class="container">
     <div class="row text-center">
         <div class="col-12">
-          <h2 class="section-title">Work of Excellence</h2>
-          <h3 class="section-sub-title">Recent Projects</h3>
+          <h2 class="section-title">Conheça nosso</h2>
+          <h3 class="section-sub-title">Blog Maker</h3>
         </div>
     </div>
     <!--/ Title row end -->
@@ -641,7 +646,7 @@
     <!--/ Content row end -->
 
     <div class="general-btn text-center mt-4">
-        <a class="btn btn-primary" href="news-left-sidebar.html">See All Posts</a>
+        <a class="btn btn-primary" href="news-left-sidebar.html">Ver todas as notícias</a>
     </div>
 
   </div>
@@ -703,18 +708,18 @@
             <div class="copyright-info text-center text-md-left">
               <span>Copyright &copy; <script>
                   document.write(new Date().getFullYear())
-                </script>, Designed &amp; Developed by <a href="https://themefisher.com">Themefisher</a></span>
+                </script>, Lab Maker IFSertãoPE, Campus Salgueiro</span>
             </div>
           </div>
 
           <div class="col-md-6">
             <div class="footer-menu text-center text-md-right">
               <ul class="list-unstyled">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">Our people</a></li>
-                <li><a href="faq.html">Faq</a></li>
+                <li><a href="about.html">Nossa História</a></li>
+                <li><a href="team.html">Equipe</a></li>
+                <li><a href="faq.html">Agenda</a></li>
                 <li><a href="news-left-sidebar.html">Blog</a></li>
-                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="pricing.html">Contato</a></li>
               </ul>
             </div>
           </div>

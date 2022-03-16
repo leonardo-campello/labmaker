@@ -6,8 +6,17 @@
     background: #018036;
 }
 
+.social-icon i {
+    font-size: 20px;
+}
+
 .navbar-light ul.navbar-nav > li > a.btn-primary {
     color: #FFF !important;
+}
+
+.navbar-fixed {
+    /* border-bottom: 1px solid #fe1718; */
+    box-shadow: 0px -10px 20px #fe1718;
 }
 
 .header-get-a-quote .btn-primary:hover {
@@ -20,5 +29,110 @@
 }
 
 .dropdown-menu li a:hover, .dropdown-menu li a:focus {
+    color: #018036;
+}
+
+ul.navbar-nav > li > a i {
+    margin-left: 5px;
+}
+
+.btn-primary:hover, .btn-dark:hover, .btn-white.btn-primary:hover {
+    background: #006028;
+}
+
+.service-box-title a:hover, .ts-service-info .learn-more:hover {
+    color: #000;
+}
+
+.ts-service-image-wrapper {
+    margin-bottom: 15px;
+}
+
+.ts-service-box .d-flex {
+    flex-direction: column;
+}
+
+.ts-service-box-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ts-service-box-img img {
+    height: 40px;
+}
+
+.service-box-title {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 18px;
+    margin-bottom: 0;
+    padding-left: 15px;
+}
+
+.ts-service-info {
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+#facts, .subscribe { 
+    background:  #018036 /* #252525; */
+}
+
+#btn-youtube a {
+    color: #fff;
+    background-color :#fe1718;
+    border-color: #fe1718;
+    margin-top: 15px;
+}
+
+#btn-youtube a i {
+    padding-right: 5px;
+}
+
+.ts-service-area i {
+    font-size: 26px;
+    margin-left: 15px;
+    margin-right: 5px;
+    color: #fe1718;
+}
+
+.ts-service-area h4 {
+    color: #018036;
+}
+
+.shuffle-btn-group {
+    border-bottom-color: #018036;
+}
+
+.shuffle-btn-group label.active {
+    color: #FFF;
+    background: #018036;
+}
+
+.shuffle-item .project-img-container .project-item-info-content .project-item-title a:hover {
+    color: #FFF;
+}
+
+.shuffle-item .project-img-container .project-item-info-content .project-cat {
+    background: #018036;
+    color: #FFF;
+}
+
+.shuffle-item .project-img-container .gallery-popup .gallery-icon {
+    background: #fe1718;
+}
+
+.clients-logo img {
+    max-height: 95px;
+}
+
+.quote-item .quote-text:before, .slick-dots li.slick-active button:before, .slick-dots li button:hover:before {
+    color: #fe1718;
+}
+
+.quote-author {
     color: #018036;
 }

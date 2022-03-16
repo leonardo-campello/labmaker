@@ -24,7 +24,10 @@
                       <!-- <a title="Linkdin" href="https://github.com/themefisher.com">
                           <span class="social-icon"><i class="fab fa-github"></i></span>
                       </a> -->
-                      <a title="YouTube" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw">
+                      <a title="Instagram" href="https://www.instagram.com/labmaker.salgueiro/" target="_blank">
+                          <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                      </a>
+                      <a title="YouTube" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw" target="_blank">
                           <span class="social-icon"><i class="fab fa-youtube"></i></span>
                       </a>
                     </li>
