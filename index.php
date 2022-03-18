@@ -20,7 +20,7 @@
               <h3 class="box-slide-sub-title">Lab Maker</h3>
               <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa! Venha conhecer mais sobre a experiência Maker e fazer a diferença.</p>
               <p>
-                <a href="services.html" class="slider btn btn-primary">Saiba mais</a>
+                <a href="#" class="slider btn btn-primary">Saiba mais</a>
               </p>
           </div>
         </div>
@@ -35,7 +35,7 @@
                 <h2 class="box-slide-title">Confira nosso evento</h2>
                 <h3 class="box-slide-sub-title">Sertão Maker</h3>
                 <p class="box-slide-description">Evento realizado para apresentar as propostas da Cultura Maker realizadas com a implantação do Lab Maker no IFSertãoPE - Campus Salgueiro. Assista as palestras e oficinas que demonstram como podemos trabalhar neste universo maker.</p>
-                <p><a href="about.html" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
+                <p><a href="#" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
               </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-primary" href="contact.html">Enviar mensagem</a>
+                <a class="btn btn-primary" href="#">Enviar mensagem</a>
               </div>
           </div><!-- col end -->
         </div><!-- row end -->
@@ -80,11 +80,11 @@
               <div class="d-flex">
                 <div class="ts-service-box-img">
                     <img loading="lazy" src="images/icon-image/criatividade.svg" alt="service-icon" />
-                    <h3 class="service-box-title"><a href="service-single.html">Criatividade</a></h3>
+                    <h3 class="service-box-title"><a href="#">Criatividade</a></h3>
                 </div>
                 <div class="ts-service-info">
                     <p>Por meio da criatividade os Makers são instruídos a fabricar com as próprias mãos e a buscar soluções simples para problemas complexos.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service1 end -->
@@ -98,11 +98,11 @@
               <div class="d-flex">
                 <div class="ts-service-box-img">
                     <img loading="lazy" src="images/icon-image/colaboratividade.svg" alt="service-icon" />
-                    <h3 class="service-box-title"><a href="service-single.html">Colaboratividade</a></h3>
+                    <h3 class="service-box-title"><a href="#">Colaboratividade</a></h3>
                 </div>
                 <div class="ts-service-info">
                     <p>Cooperar com os seus pares, levando em consideração um trabalho em rede e fazendo com que os saberes se somem é a premissa da colaboratividade.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service2 end -->
@@ -116,11 +116,11 @@
               <div class="d-flex">
                 <div class="ts-service-box-img">
                     <img loading="lazy" src="images/icon-image/sustentabilidade.svg" alt="service-icon" />
-                    <h3 class="service-box-title"><a href="service-single.html">Sustentabilidade</a></h3>
+                    <h3 class="service-box-title"><a href="#">Sustentabilidade</a></h3>
                 </div>
                 <div class="ts-service-info">
                     <p>A sustentabilidade propõe que o desperdício de materiais deve ser evitado e que se deve ressignificar usos e funções quando possível.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service3 end -->
@@ -134,11 +134,11 @@
               <div class="d-flex">
                 <div class="ts-service-box-img">
                     <img loading="lazy" src="images/icon-image/escalabilidade.svg" alt="service-icon" />
-                    <h3 class="service-box-title"><a href="service-single.html">Escalabilidade</a></h3>
+                    <h3 class="service-box-title"><a href="#">Escalabilidade</a></h3>
                 </div>
                 <div class="ts-service-info">
                     <p>Criar soluções que sejam passíveis de serem produzidas em escala e com um custo acessível é o indicado por meio do quarto pilar, a escalabilidade.</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
                 </div>
               </div>
           </div><!-- Service3 end -->
@@ -202,7 +202,7 @@
         </div> <!-- Facts end -->
     </div>
     <div id="btn-youtube" class="row justify-content-center">
-      <a class="btn btn-lg" href="#"><span class="social-icon"><i class="fab fa-youtube"></i></span>Visitar canal no YouTube</a>
+      <a class="btn btn-lg" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw"><span class="social-icon"><i class="fab fa-youtube"></i></span>Visitar canal no YouTube</a>
     </div>
     <!--/ Content row end -->
   </div>
@@ -212,7 +212,7 @@
 <section id="ts-service-area" class="ts-service-area pb-0 pt-0">
   <div class="container-fluid">
     <div class="row text-center">
-        <div class="col-6 mt-5">
+        <div class="col-12 col-md-6 mt-5">
           <h2 class="section-title">Saiba mais sobre a nossa</h2>
           <h3 class="section-sub-title">Comunidade Maker</h3>
           <div class="row">
@@ -264,7 +264,7 @@
             </div>            
           </div>
         </div>
-        <div class="col-6" style="background: url('images/services/comunidade-maker.jpeg') fixed 0 0;">
+        <div class="col-0 col-md-6" style="background: url('images/services/comunidade-maker.jpeg') fixed 0 0;">
         </div>
     </div>
     <!--/ Title row end -->
@@ -289,16 +289,16 @@
             <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Todos
           </label>
           <label for="commercial">
-            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Artesanato Digital
+            <input type="radio" name="shuffle-filter" id="artesanato" value="commercial">Artesanato Digital
           </label>
           <label for="education">
-            <input type="radio" name="shuffle-filter" id="education" value="education">Programação com Arduino
+            <input type="radio" name="shuffle-filter" id="programacao" value="education">Programação com Arduino
           </label>
           <label for="government">
-            <input type="radio" name="shuffle-filter" id="government" value="government">Cidades para Brincar
+            <input type="radio" name="shuffle-filter" id="cidades" value="government">Cidades para Brincar
           </label>
           <label for="infrastructure">
-            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Impressão 3D
+            <input type="radio" name="shuffle-filter" id="impressao3d" value="infrastructure">Impressão 3D
           </label>
         </div><!-- project filter end -->
 
@@ -306,7 +306,7 @@
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;artesanato&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/artesanato-digital.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/artesanato-digital.jpeg" alt="project-img">
@@ -315,7 +315,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Artesanato Digital</a>
+                    <a href="#">Artesanato Digital</a>
                   </h3>
                   <p class="project-cat">Ver mais</p>
                 </div>
@@ -323,7 +323,7 @@
             </div>
           </div><!-- shuffle item 1 end -->
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;cidades&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/cidades-brincar01.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/cidades-brincar01.jpeg" alt="project-img">
@@ -332,7 +332,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Cidades para Brincar</a>
+                    <a href="#">Cidades para Brincar</a>
                   </h3>
                   <p class="project-cat">Ver mais</p>
                 </div>
@@ -340,7 +340,7 @@
             </div>
           </div><!-- shuffle item 2 end -->
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;impressao3d&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/impressao-3d-01.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/impressao-3d-01.jpeg" alt="project-img">
@@ -349,7 +349,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Impressão 3D</a>
+                    <a href="#">Impressão 3D</a>
                   </h3>
                   <p class="project-cat">Ver mais</p>
                 </div>
@@ -357,7 +357,7 @@
             </div>
           </div><!-- shuffle item 3 end -->
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;impressao3d&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/impressao-3d-02.png" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/impressao-3d-02.png" alt="project-img">
@@ -366,7 +366,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Impressão 3D</a>
+                    <a href="#">Impressão 3D</a>
                   </h3>
                   <p class="project-cat">Ver mais</p>
                 </div>
@@ -374,7 +374,7 @@
             </div>
           </div><!-- shuffle item 4 end -->
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;artesanato&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/artesanato-digital02.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/artesanato-digital02.jpeg" alt="project-img">
@@ -383,15 +383,15 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Kalas Metrorail</a>
+                    <a href="#">Artesanato Digital</a>
                   </h3>
-                  <p class="project-cat">Infrastructure</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
           </div><!-- shuffle item 5 end -->
 
-          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+          <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;cidades&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/cidades-brincar02.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/cidades-brincar02.jpeg" alt="project-img">
@@ -400,9 +400,9 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ancraft Avenue House</a>
+                    <a href="#">Cidades para Brincar</a>
                   </h3>
-                  <p class="project-cat">Residential</p>
+                  <p class="project-cat">Ver mais</p>
                 </div>
               </div>
             </div>
@@ -412,7 +412,7 @@
 
       <div class="col-12">
         <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">Ver tudo</a>
+          <a class="btn btn-primary" href="#">Ver tudo</a>
         </div>
       </div>
 
@@ -445,7 +445,7 @@
               </div>
               <!--/ Item 1 end -->
 
-              <div class="item">
+              <!-- <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
@@ -460,11 +460,11 @@
                           <span class="quote-subtext">CFO, First Choice</span>
                       </div>
                     </div>
-                </div><!-- Quote item end -->
-              </div>
+                </div>Quote item end -->
+              <!-- </div> -->
               <!--/ Item 2 end -->
 
-              <div class="item">
+              <!-- <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
@@ -479,8 +479,8 @@
                           <span class="quote-subtext">Director, AKT</span>
                       </div>
                     </div>
-                </div><!-- Quote item end -->
-              </div>
+                </div>Quote item end -->
+              <!-- </div> -->
               <!--/ Item 3 end -->
 
           </div>
@@ -586,17 +586,17 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="news-single.html" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="images/news/news1.jpg" alt="img">
+                <a href="#" class="latest-post-img">
+                    <img loading="lazy" class="img-fluid" src="images/news/sertao-maker.png" alt="img">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block">We Just Completes $17.6 million Medical Clinic in Mid-Missouri</a>
+                    <a href="#" class="d-inline-block">Confira como foi nosso evento Sertão Maker, com palestras e oficinas da Cultura Maker</a>
                 </h4>
                 <div class="latest-post-meta">
                     <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> July 20, 2017
+                      <i class="fa fa-clock-o"></i>16 mar 2022
                     </span>
                 </div>
               </div>
@@ -606,17 +606,17 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="news-single.html" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="images/news/news2.jpg" alt="img">
+                <a href="#" class="latest-post-img">
+                    <img loading="lazy" class="img-fluid" src="images/news/entrevistas-maker.png" alt="img">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block">Thandler Airport Water Reclamation Facility Expansion Project Named</a>
+                    <a href="#" class="d-inline-block">Equipe do LabMaker promove série de Entrevistas Maker no YouTube</a>
                 </h4>
                 <div class="latest-post-meta">
                     <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> June 17, 2017
+                      <i class="fa fa-clock-o"></i> 15 fev 2022
                     </span>
                 </div>
               </div>
@@ -626,17 +626,17 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="news-single.html" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="images/news/news3.jpg" alt="img">
+                <a href="#" class="latest-post-img">
+                    <img loading="lazy" class="img-fluid" src="images/news/espaco-maker.png" alt="img">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block">Silicon Bench and Cornike Begin Construction Solar Facilities</a>
+                    <a href="#" class="d-inline-block">Você sabe o que é um Espaço Maker? Veja como ele pode auxiliar no aprendizado</a>
                 </h4>
                 <div class="latest-post-meta">
                     <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> Aug 13, 2017
+                      <i class="fa fa-clock-o"></i> 26 jan 2022
                     </span>
                 </div>
               </div>
@@ -646,7 +646,7 @@
     <!--/ Content row end -->
 
     <div class="general-btn text-center mt-4">
-        <a class="btn btn-primary" href="news-left-sidebar.html">Ver todas as notícias</a>
+        <a class="btn btn-primary" href="#">Ver todas as notícias</a>
     </div>
 
   </div>
@@ -654,47 +654,39 @@
 </section>
 <!--/ News end -->
 
-  <footer id="footer" class="footer bg-overlay">
+  <footer id="footer" class="footer">
     <div class="footer-main">
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
-            <h3 class="widget-title">About Us</h3>
-            <img loading="lazy" width="200px" class="footer-logo" src="images/footer-logo.png" alt="Constra">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-              labore et dolore magna aliqua.</p>
+            <!-- <h3 class="widget-title">LabMaker</h3> -->
+            <img loading="lazy" width="200px" class="footer-logo" src="images/labmaker-logo-white.png" alt="LabMaker">
+            <p>Estamos localizados no IFSertãoPE, Campus Salgueiro. Venha nos visitar e fazer parte da Cultura Maker.</p>
             <div class="footer-social">
               <ul>
-                <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i
-                      class="fab fa-facebook-f"></i></a></li>
-                <li><a href="https://twitter.com/themefisher" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li><a href="https://instagram.com/themefisher" aria-label="Instagram"><i
+                <li><a href="https://www.instagram.com/labmaker.salgueiro/" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
-                <li><a href="https://github.com/themefisher" aria-label="Github"><i class="fab fa-github"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw" aria-label="YouTube"><i class="fab fa-youtube"></i></a></li>
               </ul>
             </div><!-- Footer social end -->
           </div><!-- Col end -->
 
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
-            <h3 class="widget-title">Working Hours</h3>
+            <h3 class="widget-title">Nosso Funcionamento</h3>
             <div class="working-hours">
-              We work 7 days a week, every day excluding major holidays. Contact us if you have an emergency, with our
-              Hotline and Contact form.
-              <br><br> Monday - Friday: <span class="text-right">10:00 - 16:00 </span>
-              <br> Saturday: <span class="text-right">12:00 - 15:00</span>
-              <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span>
+              Nosso laboratório está disponível para toda a comunidade. Para fazer uso dos equipamentos, basta agendar um horário e solicitar acompanhamento de um responsável pelo laboratório.
+              <br><br> Segunda a Sexta: <span class="text-right">08:00 - 18:00 </span>
+              <!-- <br> Sábados: <span class="text-right">12:00 - 15:00</span>
+              <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span> -->
             </div>
           </div><!-- Col end -->
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
-            <h3 class="widget-title">Services</h3>
+            <h3 class="widget-title">Grupos de Pesquisa</h3>
             <ul class="list-arrow">
-              <li><a href="service-single.html">Pre-Construction</a></li>
-              <li><a href="service-single.html">General Contracting</a></li>
-              <li><a href="service-single.html">Construction Management</a></li>
-              <li><a href="service-single.html">Design and Build</a></li>
-              <li><a href="service-single.html">Self-Perform Construction</a></li>
+              <li><a href="#">GPRO</a></li>
+              <li><a href="#">GEPET</a></li>
+              <li><a href="#">GEASP</a></li>
             </ul>
           </div><!-- Col end -->
         </div><!-- Row end -->
@@ -706,7 +698,7 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="copyright-info text-center text-md-left">
-              <span>Copyright &copy; <script>
+              <span>Todos os direitos reservados &copy; <script>
                   document.write(new Date().getFullYear())
                 </script>, Lab Maker IFSertãoPE, Campus Salgueiro</span>
             </div>
@@ -715,11 +707,11 @@
           <div class="col-md-6">
             <div class="footer-menu text-center text-md-right">
               <ul class="list-unstyled">
-                <li><a href="about.html">Nossa História</a></li>
-                <li><a href="team.html">Equipe</a></li>
-                <li><a href="faq.html">Agenda</a></li>
-                <li><a href="news-left-sidebar.html">Blog</a></li>
-                <li><a href="pricing.html">Contato</a></li>
+                <li><a href="#">Nossa História</a></li>
+                <li><a href="#">Equipe</a></li>
+                <li><a href="#">Agenda</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contato</a></li>
               </ul>
             </div>
           </div>

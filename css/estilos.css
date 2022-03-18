@@ -136,3 +136,83 @@ ul.navbar-nav > li > a i {
 .quote-author {
     color: #018036;
 }
+
+.latest-post .post-title a:hover {
+    color: #018036;
+}
+
+.general-btn .btn-primary:hover {
+    background: #006028;
+}
+
+.footer, .footer-main {
+    background-color: #018036;
+}
+
+.footer, .footer-social ul li a i, .footer-widget ul.list-arrow li a, .footer-widget ul.list-arrow li:before {
+    color: #FFF;
+}
+
+.footer-social ul li a i {
+    font-size: 24px;
+}
+
+.footer-widget ul.list-arrow li:hover a, .footer-widget ul.list-arrow li:hover, .footer-social ul li a i:hover {
+    color: #fe1718;
+}
+
+.footer .widget-title {
+    border-left: 3px solid #fe1718;
+}
+
+.copyright {
+    background: #006028;
+}
+
+#back-to-top .btn.btn-primary {
+    color: #fe1718;
+}
+
+.navbar-toggler {
+    background: #018036;
+}
+
+@media (max-width: 575px) {
+
+    .top-social ul li a {
+        padding: 0 8px;
+    }
+
+    .social-icon i {
+        font-size: 18px;
+    }
+    
+    .service-box-title {
+        flex: none;
+    }
+
+    .ts-service-area h4 {
+        font-size: 0.98rem;
+    }
+
+    .section-sub-title {
+        margin-bottom: 45px;
+    }
+
+    section {
+        padding-top: 45px;
+    }
+
+    #facts iframe {
+        margin: 15px;
+        max-height: 220px;
+    }
+
+    .shuffle-btn-group {
+        display: none;
+    }
+
+    .footer-menu {
+        display: none;
+    }
+}
