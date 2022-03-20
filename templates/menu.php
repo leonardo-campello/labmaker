@@ -33,33 +33,33 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Academia Maker<i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="projects.html">Artesanato Digital</a></li>
-                            <li><a href="projects-single.html">Programação com Arduino</a></li>
-                            <li><a href="projects-single.html">Cidades para brincar</a></li>
-                            <li><a href="projects-single.html">Entrevistas Maker</a></li>
-                            <li><a href="projects-single.html">Sertão Maker</a></li>
-                            <li><a href="projects-single.html">Sertão Maker: Empreendedorismo e Inovação</a></li>
+                            <li><a href="#">Artesanato Digital</a></li>
+                            <li><a href="#">Programação com Arduino</a></li>
+                            <li><a href="#">Cidades para brincar</a></li>
+                            <li><a href="#">Entrevistas Maker</a></li>
+                            <li><a href="#">Sertão Maker</a></li>
+                            <li><a href="#">Sertão Maker: Empreendedorismo e Inovação</a></li>
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Comunidade Maker<i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html">Equipamentos IF Salgueiro</a></li>
-                            <li><a href="service-single.html">Equipamentos Labs Makers</a></li>
+                            <li><a href="#">Equipamentos IF Salgueiro</a></li>
+                            <li><a href="#">Equipamentos Labs Makers</a></li>
                           </ul>
                       </li>
 
-                      <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Agenda</a>                          
+                      <li class="nav-item">
+                          <a href="#" class="nav-link">Agenda</a>                          
                       </li>
               
-                      <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Contato</a>                          
+                      <li class="nav-item">
+                          <a href="#" class="nav-link">Contato</a>                          
                       </li>
               
                       <li class="header-get-a-quote">
-                          <a class="btn btn-primary" href="contact.html">Login</a>
+                          <a class="btn btn-primary" href="#">Login</a>
                       </li>
                     </ul>
                 </div>
