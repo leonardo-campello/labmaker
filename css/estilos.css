@@ -186,7 +186,7 @@ ul.navbar-nav > li > a i {
     .social-icon i {
         font-size: 18px;
     }
-    
+
     .service-box-title {
         flex: none;
     }
@@ -214,5 +214,63 @@ ul.navbar-nav > li > a i {
 
     .footer-menu {
         display: none;
+    }
+}
+
+/************************************************************************************
+****************************         EQUIPE        **********************************
+*************************************************************************************/
+
+.banner-title {
+    color: #018036;
+}
+
+.section-sub-title p {
+    font-weight: normal;
+    text-transform: none;
+    margin-bottom: 5px;
+}
+
+.ts-team-content-classic .ts-name {
+    margin-bottom: 0;
+}
+
+.ts-team-content-classic .ts-designation {
+    line-height: normal;
+    color: #018036;
+}
+
+.ts-description {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.ts-description b {
+    font-size: 13px;
+}
+
+.ts-team-content-classic .team-social-icons a, .ts-team-content-classic .team-social-icons a i{
+    color: #fe1718;
+}
+
+.ts-team-content-classic .team-social-icons a:hover, .ts-team-content-classic .team-social-icons a i:hover{
+    color: #cf0505;
+}
+
+.banner-title img {
+    margin-bottom: -50px;
+}
+
+@media (max-width: 575px) {
+    #banner-area {
+        background-position-x: -270px !important;
+    }
+
+    .banner-area {
+        min-height: 200px !important;
+    }
+
+    .banner-title img {
+        height: 35px;
     }
 }

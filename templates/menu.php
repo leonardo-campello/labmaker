@@ -7,7 +7,7 @@
               <nav class="navbar navbar-expand-lg navbar-light p-0">
                 
                 <div class="logo">
-                    <a class="d-block" href="index-2.html">
+                    <a class="d-block" href="index.php">
                       <img loading="lazy" src="images/logo-labmaker.webp" alt="Logo do LabMaker">
                     </a>
                 </div><!-- logo end -->
@@ -18,16 +18,16 @@
                 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav ml-auto align-items-center">
-                      <li class="nav-item dropdown active">
-                          <a href="/" class="nav-link dropdown-toggle" data-toggle="dropdown">Home</a>                          
+                      <li class="nav-item active">
+                          <a href="index.php" class="nav-link">Home</a>                          
                       </li>
 
-                      <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nossa história</a>                          
+                      <li class="nav-item">
+                          <a href="#" class="nav-link">Nossa história</a>                          
                       </li>
 
-                      <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Equipe</a>                          
+                      <li class="nav-item">
+                          <a href="equipe.php" class="nav-link">Equipe</a>                          
                       </li>
               
                       <li class="nav-item dropdown">
