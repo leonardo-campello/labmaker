@@ -27,7 +27,7 @@
 </div><!-- Banner area end --> 
 
 
-<section id="main-container" class="main-container pb-4">
+<section id="main-container" class="main-container pb-4 equipe">
   <div class="container">
     <div class="row text-center">
       <div class="col-lg-12">

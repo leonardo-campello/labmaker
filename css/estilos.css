@@ -235,6 +235,10 @@ ul.navbar-nav > li > a i {
     margin-bottom: 0;
 }
 
+.equipe .team-img-wrapper img {
+    border-radius: 30px;
+}
+
 .ts-team-content-classic .ts-designation {
     line-height: normal;
     color: #018036;
