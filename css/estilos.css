@@ -1,3 +1,8 @@
+.container {
+    background-color: transparent;
+    padding: 0 15px;
+    border-radius: 0;
+}
 .header-two .logo img {
     height: 70px;
 }
