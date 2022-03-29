@@ -11,6 +11,11 @@
     background: #018036;
 }
 
+.btn-primary.disabled, .btn-primary:disabled {
+    background: #006028;
+    border-color: #006028;
+}
+
 .social-icon i {
     font-size: 20px;
 }
@@ -291,6 +296,13 @@ ul.navbar-nav > li > a i {
     }
 }
 
+
+/************************************************************************************
+****************************         NOSSA HISTÓRIA        **********************************
+*************************************************************************************/
+
+
+
 .nossa-historia blockquote {
     border-left: 3px solid #fe1718;
     margin: 20px 0 10px;
@@ -364,4 +376,21 @@ ul.navbar-nav > li > a i {
     .nossa-historia .ts-description {
         font-size: 10px;
     }
+}
+
+/************************************************************************************
+****************************         CONTATO        **********************************
+*************************************************************************************/
+
+
+.contato .ts-service-box-bg {
+    background-color: #018036;
+}
+
+.contato .ts-service-icon.icon-round i {
+    background: #fe1718;
+}
+
+.contato .form-control:focus {
+    border: 1px solid #018036;
 }
