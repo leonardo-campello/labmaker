@@ -55,7 +55,7 @@
                       </li>
               
                       <li class="nav-item">
-                          <a href="#" class="nav-link">Contato</a>                          
+                          <a href="contato.php" class="nav-link">Contato</a>                          
                       </li>
               
                       <li class="header-get-a-quote">
