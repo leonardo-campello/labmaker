@@ -222,9 +222,16 @@ ul.navbar-nav > li > a i {
     }
 }
 
+
+.banner-area {
+    background-size: cover !important;
+}
+
 /************************************************************************************
 ****************************         EQUIPE        **********************************
 *************************************************************************************/
+
+
 
 .banner-title {
     color: #018036;
@@ -281,5 +288,80 @@ ul.navbar-nav > li > a i {
 
     .banner-title img {
         height: 35px;
+    }
+}
+
+.nossa-historia blockquote {
+    border-left: 3px solid #fe1718;
+    margin: 20px 0 10px;
+}
+
+.page-slider.small-bg .box-slider-content {
+    left: 10%;
+}
+
+.ts-facts .ts-facts-content .ts-facts-num {
+    color: #fe1718;
+}
+
+.ts-facts .ts-facts-content .ts-facts-title {
+    color: #FFF;
+}
+
+.ts-team-wrapper .ts-team-content {
+    padding: 9px 10px;
+    background: rgba(0,0, 0, 0.3);
+}
+
+.ts-team-wrapper .ts-name {
+    color: #018036;
+}
+
+.ts-team-wrapper .ts-designation {
+    color: #333;
+}
+
+.ts-team-wrapper:hover .ts-team-content {
+    /* background: rgba(1, 128, 54, 0.5); */
+    background: rgba(255, 255, 255, 0.8);
+    transition: 350ms;
+}
+
+.ts-team-wrapper .ts-description, .ts-team-wrapper a {
+    color: #333;
+}
+
+.ts-team-wrapper .team-social-icons a, .ts-team-wrapper .team-social-icons a i {
+    color: #fe1718;
+}
+
+.ts-team-wrapper .team-social-icons a:hover, .ts-team-wrapper .team-social-icons a i:hover {
+    color: #cf0505;
+}
+
+.nossa-historia .ts-description {
+    font-size: 12px;
+}
+
+.team-slide .carousel-control:hover {
+    background-color: #fe1718;
+    color: #FFF;
+}
+
+@media (max-width: 575px) {
+    .ts-team-wrapper:hover .ts-team-content {
+        padding-top: 9px;
+    }
+
+    .ts-team-wrapper .ts-designation {
+        margin-bottom: 5px;
+    }
+
+    .ts-team-wrapper .ts-team-content {
+        text-align: left;
+    }
+
+    .nossa-historia .ts-description {
+        font-size: 10px;
     }
 }

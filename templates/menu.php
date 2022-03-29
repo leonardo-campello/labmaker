@@ -23,7 +23,7 @@
                       </li>
 
                       <li class="nav-item">
-                          <a href="#" class="nav-link">Nossa história</a>                          
+                          <a href="nossa-historia.php" class="nav-link">Nossa história</a>                          
                       </li>
 
                       <li class="nav-item">

@@ -4,7 +4,7 @@
   <?php include_once('templates/head.php'); ?>
 </head>
 <body>
-  <div class="body-inner">
+  <div class="body-inner nossa-historia">
     <?php 
       include_once('templates/topbar.php'); 
       include_once('templates/menu.php');
@@ -32,42 +32,42 @@
   <div class="container">
     <div class="row">
         <div class="col-lg-6">
-          <h3 class="column-title">Who We Are</h3>
-          <p>when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p>
-          <blockquote><p>Semporibus autem quibusdam et aut officiis debitis aut rerum est aut optio cumque nihil necessitatibus autemn ec tincidunt nunc posuere ut</p></blockquote>
-          <p>He lay on his armour-like  back, and if he lifted. ultrices ultrices sapien, nec tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing.</p>
-
+            <h3 class="column-title">Um pouco da nossa trajetória...</h3>
+            <p>A demanda por profissionais e estudantes mais criativos, flexíveis e capazes de se adaptarem às constantes mudanças nos fluxos de trabalho é imperativa atualmente.</p>
+            <p>Está sendo implantado um Laboratório Maker com abordagem multidisciplinar no IFSertãoPE, especificamente no campus Salgueiro, que tem como meta criar um ambiente propício para o surgimento de agentes transformadores da realidade através da participação ativa em diversos problemas da sociedade, materializando ideias e criando oportunidades de aprendizagem para pessoas.</p>
+            <blockquote><p>O Laboratório Maker será disponibilizado a toda comunidade e gerenciado pelo IFSertãoPE.</p></blockquote>
+            <p class="text-right">Marcelo Santos (Coordenador do LabMaker - IF Salgueiro)</p>
         </div><!-- Col end -->
 
         <div class="col-lg-6 mt-5 mt-lg-0">
           
           <div id="page-slider" class="page-slider small-bg">
 
-              <div class="item" style="background-image:url(images/slider-pages/slide-page1.jpg)">
+              <div class="item" style="background-image:url(images/slider-pages/labmaker1.jpeg)">
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Leadership</h2>
+                          <h2 class="box-slide-title">Início da construção</h2>
                       </div>    
                     </div>
                 </div>
               </div><!-- Item 1 end -->
 
-              <div class="item" style="background-image:url(images/slider-pages/slide-page2.jpg)">
+              <div class="item" style="background-image:url(images/slider-pages/labmaker2.jpeg); background-position: 0 -200px">
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Relationships</h2>
+                          <h2 class="box-slide-title">Nossos alunos</h2>
                       </div>    
                     </div>
                 </div>
               </div><!-- Item 1 end -->
 
-              <div class="item" style="background-image:url(images/slider-pages/slide-page3.jpg)">
+              <div class="item" style="background-image:url(images/slider-pages/labmaker3.jpeg)">
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Performance</h2>
+                          <h2 class="box-slide-title">Nossos eventos</h2>
                       </div>    
                     </div>
                 </div>
@@ -88,41 +88,41 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 ts-facts">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact1.png" alt="facts-img">
+                <img loading="lazy" src="images/icon-image/time-icon.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
-                <h3 class="ts-facts-title">Total Projects</h3>
+                <h2 class="ts-facts-num">+<span class="counterUp" data-count="13">0</span></h2>
+                <h3 class="ts-facts-title">Membros</h3>
               </div>
           </div><!-- Col end -->
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-sm-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact2.png" alt="facts-img">
+                <img loading="lazy" src="images/icon-image/projetos-icon.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="647">0</span></h2>
-                <h3 class="ts-facts-title">Staff Members</h3>
+                <h2 class="ts-facts-num">+<span class="counterUp" data-count="9">0</span></h2>
+                <h3 class="ts-facts-title">Projetos</h3>
               </div>
           </div><!-- Col end -->
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact3.png" alt="facts-img">
+                <img loading="lazy" src="images/icon-image/equipamentos-icon.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="4000">0</span></h2>
-                <h3 class="ts-facts-title">Hours of Work</h3>
+                <h2 class="ts-facts-num">+<span class="counterUp" data-count="52">0</span></h2>
+                <h3 class="ts-facts-title">Equipamentos</h3>
               </div>
           </div><!-- Col end -->
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact4.png" alt="facts-img">
+                <img loading="lazy" src="images/icon-image/pesquisa-icon.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="44">0</span></h2>
-                <h3 class="ts-facts-title">Countries Experience</h3>
+                <h2 class="ts-facts-num"><span class="counterUp" data-count="3">0</span></h2>
+                <h3 class="ts-facts-title">Grupos de Pesquisa</h3>
               </div>
           </div><!-- Col end -->
 
@@ -137,8 +137,8 @@
   <div class="container">
     <div class="row text-center">
         <div class="col-lg-12">
-          <h2 class="section-title">Quality Service</h2>
-          <h3 class="section-sub-title">Professional Team</h3>
+          <h2 class="section-title">Conheça nossos</h2>
+          <h3 class="section-sub-title">Grupos de Pesquisa</h3>
         </div>
     </div><!--/ Title row end -->
 
@@ -148,17 +148,14 @@
               <div class="item">
                 <div class="ts-team-wrapper">
                     <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team1.jpg" alt="team-img">
+                      <img loading="lazy" class="w-100" src="images/projects/Group 7.png" alt="team-img">
                     </div>
                     <div class="ts-team-content">
-                      <h3 class="ts-name">Nats Stenman</h3>
-                      <p class="ts-designation">Chief Operating Officer</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                      <h3 class="ts-name">GPRO</h3>
+                      <p class="ts-designation">Líder: Marcelo Santos</p>
+                      <p class="ts-description">Grupo de Pesquisa em Redes de Computadores, Otimização e Automação. IFSertãoPE - Campus Salgueiro<br><strong>marcelo.santos@ifsertao-pe.edu.br</strong></p>
                       <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                          <a target="_blank" href="https://www.gprolab.org/"><i class="fa fa-link"></i>Visite nosso site</a>
                       </div><!--/ social-icons-->
                     </div>
                 </div><!--/ Team wrapper end -->
@@ -167,16 +164,14 @@
               <div class="item">
                 <div class="ts-team-wrapper">
                     <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team2.jpg" alt="team-img">
+                      <img loading="lazy" class="w-100" src="images/projects/Group 6.png" alt="team-img">
                     </div>
                     <div class="ts-team-content">
-                      <h3 class="ts-name">Angela Lyouer</h3>
-                      <p class="ts-designation">Innovation Officer</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                      <h3 class="ts-name">GEPET</h3>
+                      <p class="ts-designation">Líder: Francisco Kelsen</p>
+                      <p class="ts-description">Grupo de Estudos e Pesquisas em Práticas Educacionais Tecnológicas. IFSertãoPE - Campus Salgueiro<br><strong>francisco.oliveira@ifsertao-pe.edu.br</strong></p>
                       <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                          <a target="_blank" href="https://www.instagram.com/gepet.ifsertaope/"><i class="fab fa-instagram"></i>Visite nosso Instagram</a>
                       </div><!--/ social-icons-->
                     </div>
                 </div><!--/ Team wrapper end -->
@@ -185,76 +180,17 @@
               <div class="item">
                 <div class="ts-team-wrapper">
                     <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team3.jpg" alt="team-img">
+                      <img loading="lazy" class="w-100" src="images/projects/Group 5.png" alt="team-img">
                     </div>
                     <div class="ts-team-content">
-                      <h3 class="ts-name">Mark Conter</h3>
-                      <p class="ts-designation">Safety Officer</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                      <h3 class="ts-name">GEASP</h3>
+                      <p class="ts-designation">Líder: Pedro Lemos</p>
+                      <p class="ts-description">Grupo de Estudos Ambientais no Sertão Pernambucano. IFSertãoPE - Campus Salgueiro<br><strong>pedro.lemos@ifsertao-pe.edu.br</strong></p>
                       <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
                       </div><!--/ social-icons-->
                     </div>
                 </div><!--/ Team wrapper end -->
               </div><!-- Team 3 end -->
-
-              <div class="item">
-                <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team4.jpg" alt="team-img">
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Ayesha Stewart</h3>
-                      <p class="ts-designation">Finance Officer</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                      <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                      </div><!--/ social-icons-->
-                    </div>
-                </div><!--/ Team wrapper end -->
-              </div><!-- Team 4 end -->
-
-              <div class="item">
-                <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team5.jpg" alt="team-img">
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Dave Clarkte</h3>
-                      <p class="ts-designation">Civil Engineer</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                      <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                      </div><!--/ social-icons-->
-                    </div>
-                </div><!--/ Team wrapper end -->
-              </div><!-- Team 5 end -->
-
-              <div class="item">
-                <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img loading="lazy" class="w-100" src="images/team/team6.jpg" alt="team-img">
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Elton Joe</h3>
-                      <p class="ts-designation">Site Supervisor</p>
-                      <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                      <div class="team-social-icons">
-                          <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                      </div><!--/ social-icons-->
-                    </div>
-                </div><!--/ Team wrapper end -->
-              </div><!-- Team 6 end -->
 
           </div><!-- Team slide end -->
         </div>
