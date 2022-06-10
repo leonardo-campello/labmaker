@@ -1,0 +1,27 @@
+.sidebar .widget-title {
+    border-left: 3px solid #fe1718;
+}
+
+.widget.recent-posts .posts-thumb img {
+    height: auto;
+    max-height: 70px;
+}
+
+.widget.recent-posts .post-info .entry-title a:hover,
+.post-meta a:hover,
+.comments-list .comment-reply:hover {
+    color: #018036;
+}
+
+.sidebar .widget-tags ul > li a:hover,
+.post-tags a:hover {
+    background: #018036;
+}
+
+.form-control:focus {
+    border: 1px solid #018036;
+}
+
+.entry-content p strong {
+    color: #018036;
+}

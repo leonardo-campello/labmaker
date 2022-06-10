@@ -50,6 +50,15 @@ ul.navbar-nav > li > a i {
     background: #006028;
 }
 
+.call-to-action {
+    background-color: #252525;
+    padding: 30px;
+}
+
+.call-to-action .action-style-box .row {
+    align-items: center;
+}
+
 .service-box-title a:hover, .ts-service-info .learn-more:hover {
     color: #000;
 }
@@ -310,6 +319,11 @@ ul.navbar-nav > li > a i {
 
 .page-slider.small-bg .box-slider-content {
     left: 10%;
+}
+
+.page-slider .carousel-control i:hover {
+    background: #018036;
+    color: #fff;
 }
 
 .ts-facts .ts-facts-content .ts-facts-num {

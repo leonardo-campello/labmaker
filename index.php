@@ -49,7 +49,10 @@
         <div class="row">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">Faça parte da Cultura Maker e junte-se a nós</h3>
+                <h3 class="action-title">Estamos funcionando! Visite nosso Lab e torne-se um Maker. 
+                <br>
+                Horário de funcionamento: Segunda a Sexta, 08h às 18h
+                </h3>
               </div>
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">

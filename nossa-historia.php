@@ -72,6 +72,16 @@
                     </div>
                 </div>
               </div><!-- Item 1 end -->
+              
+              <div class="item" style="background-image:url(images/slider-pages/labmaker4.jpeg)">
+                <div class="container">
+                    <div class="box-slider-content">
+                      <div class="box-slider-text">
+                          <h2 class="box-slide-title">Nosso LabMaker</h2>
+                      </div>    
+                    </div>
+                </div>
+              </div><!-- Item 1 end -->
           </div><!-- Page slider end-->          
         
 

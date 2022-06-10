@@ -84,7 +84,7 @@
 
       </div><!-- Col end -->
 
-      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+      <!-- <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
             <img loading="lazy" src="images/time/francisco-kelsen.jpeg" class="img-fluid" alt="team-img">
@@ -97,11 +97,9 @@
             <div class="team-social-icons">
                 <a target="_blank" href="http://lattes.cnpq.br/9442744282313681"><i class="fa fa-link"></i>Lattes</a>
             </div>
-            <!--/ social-icons-->
           </div>
         </div>
-        <!--/ Team wrapper 5 end -->
-      </div><!-- Col end -->
+      </div>Col end -->
 
       <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
@@ -122,7 +120,7 @@
         <!--/ Team wrapper 6 end -->
       </div><!-- Col end -->
 
-      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+      <!-- <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
             <img loading="lazy" src="images/time/marinaldo.jpeg" class="img-fluid" alt="team-img">
@@ -135,13 +133,11 @@
             <div class="team-social-icons">
                 <a target="_blank" href="http://lattes.cnpq.br/7039131984326044"><i class="fa fa-link"></i>Lattes</a>
             </div>
-            <!--/ social-icons-->
           </div>
         </div>
-        <!--/ Team wrapper 3 end -->
-      </div><!-- Col end -->
+      </div>Col end -->
 
-      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+      <!-- <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
             <img loading="lazy" src="images/time/marcelo-souza.jpeg" class="img-fluid" alt="team-img">
@@ -154,12 +150,9 @@
             <div class="team-social-icons">
                 <a target="_blank" href="http://lattes.cnpq.br/0487029353003648"><i class="fa fa-link"></i>Lattes</a>
             </div>
-            <!--/ social-icons-->
           </div>
         </div>
-        <!--/ Team wrapper 4 end -->
-
-      </div><!-- Col end -->
+      </div>Col end -->
 
       <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
@@ -212,41 +205,133 @@
             <div class="team-social-icons">
                 <a target="_blank" href="http://lattes.cnpq.br/5618850269785686"><i class="fa fa-link"></i>Lattes</a>
             </div>
-            <!--/ social-icons-->
           </div>
         </div>
-        <!--/ Team wrapper 3 end -->
-      </div><!-- Col end -->
-    </div><!-- Content row end -->
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="images/time/handherson-damasceno.jpeg" class="img-fluid" alt="team-img">
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Handherson Damasceno</h3>
+            <p class="ts-designation">Membro</p>
+            <p class="ts-description">Doutor e Mestre em Educação (UFBA). Especialista em Educação a Distância (UNEB). Graduado em Pedagogia (UEFS) e em Licenciatura em Letras - Português pelo Centro Universitário Claretiano. Professor EBTT do IFSertãoPE.<br>
+            <b>handherson.damasceno@ifsertao-pe.edu.br</b></p>
+            <div class="team-social-icons">
+                <a target="_blank" href="http://lattes.cnpq.br/0325248827574700"><i class="fa fa-link"></i>Lattes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="images/time/francenila-rodrigues.jpeg" class="img-fluid" alt="team-img">
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Francenila Rodrigues</h3>
+            <p class="ts-designation">Membro</p>
+            <p class="ts-description">Mestre em Engenharia de Software (CESAR). Especialista em Engenharia de Software e Graduada em Ciência da Computação (FACAPE). Professora EBTT do IFSertãoPE.<br>
+            <b>francenila.rodrigues@ifsertao-pe.edu.br</b></p>
+            <div class="team-social-icons">
+                <a target="_blank" href="http://lattes.cnpq.br/2187874622982080"><i class="fa fa-link"></i>Lattes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="images/time/marcos-padilha.jpeg" class="img-fluid" alt="team-img">
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Marcos Padilha</h3>
+            <p class="ts-designation">Membro</p>
+            <p class="ts-description">Doutorando em Ciência e Engenharia de Materiais (UFPB). Mestre em Engenharia Civil (UNICAP). Especialista em Gestão e Engenharia de Petróleo e Gás (IBEC). Graduado em Engenharia Civil (UFPB) e Tecnologia em Construção de Edifícios (UFPB). Professor EBTT do IFSertãoPE.<br>
+            <b>marcos.padilha@ifsertao-pe.edu.br</b></p>
+            <div class="team-social-icons">
+                <a target="_blank" href="http://lattes.cnpq.br/3724294298111133"><i class="fa fa-link"></i>Lattes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="images/time/pedro-davi.jpeg" class="img-fluid" alt="team-img">
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Pedro Matos</h3>
+            <p class="ts-designation">Membro</p>
+            <p class="ts-description">Mestre em Física (UFBA). Graduado em Licenciatura em Física e Bacharel em Física (UFBA). Professor EBTT do IFSertãoPE.<br>
+            <b>pedro.matos@ifsertao-pe.edu.br</b></p>
+            <div class="team-social-icons">
+                <a target="_blank" href="http://lattes.cnpq.br/3944546280755729"><i class="fa fa-link"></i>Lattes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="images/time/thales-ferreira.jpeg" class="img-fluid" alt="team-img">
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Thales Ferreira</h3>
+            <p class="ts-designation">Membro</p>
+            <p class="ts-description">Especialista em Estrutura de Concreto e Fundações (UNIP). Graduado em Engenharia Civil (UNIVASF). Professor EBTT do IFSertãoPE.<br>
+            <b>thales.souza@ifsertao-pe.edu.br</b></p>
+            <div class="team-social-icons">
+                <a target="_blank" href="http://lattes.cnpq.br/8350035618767210"><i class="fa fa-link"></i>Lattes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
 
     <div class="row justify-content-center">
         <div class="col-lg-12">
             <h3>Alunos</h3>
         </div>
         <div class="col-lg-12">
-            <a href="http://lattes.cnpq.br/4587760699343049">
+            <a href="http://lattes.cnpq.br/9379991100862219">
                 <i class="fa fa-link"></i>
-                Fabricio da Silva Ferreira
+                Maria Isabela de Souza Barros
             </a><br>
-            <a href="http://lattes.cnpq.br/1965835706693844">
+            <a href="http://lattes.cnpq.br/2781948249489991">
                 <i class="fa fa-link"></i>
-                Gabriel Oliveira Parente
+                José Pereira de Souza Neto
             </a><br>
-            <a href="http://lattes.cnpq.br/6340662501881471">
+            <a href="http://lattes.cnpq.br/1120385769505493">
                 <i class="fa fa-link"></i>
-                Jheymisson Santana Alves Santos
+                Ericklis Rogerio Pereira da Cruz
             </a><br>
-            <a href="http://lattes.cnpq.br/7006343969432547">
+            <a href="http://lattes.cnpq.br/2878550821438126">
                 <i class="fa fa-link"></i>
-                João José Gondim
+                Vitória Mickelle Pereira de Alencar
             </a><br>
-            <a href="http://lattes.cnpq.br/6175853914057487">
+            <a href="http://lattes.cnpq.br/0495284946505391">
                 <i class="fa fa-link"></i>
-                Veronica Hellen do Nascimento Silva
+                Elizandro José do Nascimento
             </a><br>
-            <a href="http://lattes.cnpq.br/1244726359868434">
+            <a href="http://lattes.cnpq.br/4436471092798721">
                 <i class="fa fa-link"></i>
-                Victoria Fagundes da Silva
+                Grazielle Gonçalves Freire
+            </a><br>
+            <a href="#">
+                <i class="fa fa-link"></i>
+                Sophia Santos Freire de Sá
+            </a><br>
+            <a href="http://lattes.cnpq.br/0832569501641835">
+                <i class="fa fa-link"></i>
+                Caio Francisco da Silva Gomes
             </a><br>
             <a href="#">
                 <i class="fa fa-link"></i>
