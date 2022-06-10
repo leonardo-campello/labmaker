@@ -288,7 +288,7 @@
             <p class="ts-description">Especialista em Estrutura de Concreto e Fundações (UNIP). Graduado em Engenharia Civil (UNIVASF). Professor EBTT do IFSertãoPE.<br>
             <b>thales.souza@ifsertao-pe.edu.br</b></p>
             <div class="team-social-icons">
-                <a target="_blank" href="http://lattes.cnpq.br/8350035618767210"><i class="fa fa-link"></i>Lattes</a>
+                <a target="_blank" href="http://lattes.cnpq.br/8350035618767210"><i class="fa fa-link"></i>Lattess</a>
             </div>
           </div>
         </div>
