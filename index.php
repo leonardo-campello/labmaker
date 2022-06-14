@@ -35,7 +35,7 @@
                 <h2 class="box-slide-title">Confira nosso evento</h2>
                 <h3 class="box-slide-sub-title">Sertão Maker</h3>
                 <p class="box-slide-description">Evento realizado para apresentar as propostas da Cultura Maker realizadas com a implantação do Lab Maker no IFSertãoPE - Campus Salgueiro. Assista as palestras e oficinas que demonstram como podemos trabalhar neste universo maker.</p>
-                <p><a href="#" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
+                <p><a href="https://www.youtube.com/watch?v=ZCfr_cNctP0&list=PLyJnePDP1voVhW1D0kXVwxzSUrZoj-Gw-" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
               </div>
           </div>
         </div>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="ts-service-info">
                     <p>Por meio da criatividade os Makers são instruídos a fabricar com as próprias mãos e a buscar soluções simples para problemas complexos.</p>
-                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <!-- <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a> -->
                 </div>
               </div>
           </div><!-- Service1 end -->
@@ -105,7 +105,7 @@
                 </div>
                 <div class="ts-service-info">
                     <p>Cooperar com os seus pares, levando em consideração um trabalho em rede e fazendo com que os saberes se somem é a premissa da colaboratividade.</p>
-                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <!-- <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a> -->
                 </div>
               </div>
           </div><!-- Service2 end -->
@@ -123,7 +123,7 @@
                 </div>
                 <div class="ts-service-info">
                     <p>A sustentabilidade propõe que o desperdício de materiais deve ser evitado e que se deve ressignificar usos e funções quando possível.</p>
-                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <!-- <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a> -->
                 </div>
               </div>
           </div><!-- Service3 end -->
@@ -141,7 +141,7 @@
                 </div>
                 <div class="ts-service-info">
                     <p>Criar soluções que sejam passíveis de serem produzidas em escala e com um custo acessível é o indicado por meio do quarto pilar, a escalabilidade.</p>
-                    <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a>
+                    <!-- <a class="learn-more d-inline-block" href="#" aria-label="service-details"><i class="fa fa-caret-right"></i> Saiba mais</a> -->
                 </div>
               </div>
           </div><!-- Service3 end -->
