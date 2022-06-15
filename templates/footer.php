@@ -28,9 +28,9 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
         <h3 class="widget-title">Grupos de Pesquisa</h3>
         <ul class="list-arrow">
-            <li><a href="#">GPRO</a></li>
-            <li><a href="#">GEPET</a></li>
-            <li><a href="#">GEASP</a></li>
+            <li><a href="https://www.gprolab.org/" target="_blank">GPRO</a></li>
+            <li><a href="https://www.instagram.com/gepet.ifsertaope/" target="_blank">GEPET</a></li>
+            <!-- <li><a href="#">GEASP</a></li> -->
         </ul>
         </div><!-- Col end -->
     </div><!-- Row end -->
