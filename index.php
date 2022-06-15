@@ -20,7 +20,7 @@
               <h3 class="box-slide-sub-title">Lab Maker</h3>
               <p class="box-slide-description">Nós amamos inovar, construir, e colocar a mão na massa! Venha conhecer mais sobre a experiência Maker e fazer a diferença.</p>
               <p>
-                <a href="#" class="slider btn btn-primary">Saiba mais</a>
+                <!-- <a href="#" class="slider btn btn-primary">Saiba mais</a> -->
               </p>
           </div>
         </div>
@@ -57,7 +57,7 @@
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-primary" href="#">Enviar mensagem</a>
+                <a class="btn btn-primary" href="contato.php">Enviar mensagem</a>
               </div>
           </div><!-- col end -->
         </div><!-- row end -->
@@ -205,7 +205,7 @@
         </div> <!-- Facts end -->
     </div>
     <div id="btn-youtube" class="row justify-content-center">
-      <a class="btn btn-lg" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw"><span class="social-icon"><i class="fab fa-youtube"></i></span>Visitar canal no YouTube</a>
+      <a class="btn btn-lg" href="https://www.youtube.com/channel/UCME7pYi-_Du-R8s3RYfA_mw" target="_blank"><span class="social-icon"><i class="fab fa-youtube"></i></span>Visitar canal no YouTube</a>
     </div>
     <!--/ Content row end -->
   </div>
@@ -320,7 +320,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Artesanato Digital</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -337,7 +337,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Cidades para Brincar</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -354,7 +354,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Impressão 3D</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -371,7 +371,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Impressão 3D</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -388,7 +388,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Artesanato Digital</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -405,7 +405,7 @@
                   <h3 class="project-item-title">
                     <a href="#">Cidades para Brincar</a>
                   </h3>
-                  <p class="project-cat">Ver mais</p>
+                  <!-- <p class="project-cat">Ver mais</p> -->
                 </div>
               </div>
             </div>
@@ -649,7 +649,7 @@
     <!--/ Content row end -->
 
     <div class="general-btn text-center mt-4">
-        <a class="btn btn-primary" href="#">Ver todas as notícias</a>
+        <!-- <a class="btn btn-primary" href="#">Ver todas as notícias</a> -->
     </div>
 
   </div>

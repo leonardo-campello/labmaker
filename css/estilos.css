@@ -11,6 +11,10 @@
     background: #018036;
 }
 
+.btn-primary.focus, .btn-primary:focus {
+    background: #018036;
+}
+
 .btn-primary.disabled, .btn-primary:disabled {
     background: #006028;
     border-color: #006028;
