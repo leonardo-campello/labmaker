@@ -35,7 +35,7 @@
                 <h2 class="box-slide-title">Confira nosso evento</h2>
                 <h3 class="box-slide-sub-title">Sertão Maker</h3>
                 <p class="box-slide-description">Evento realizado para apresentar as propostas da Cultura Maker realizadas com a implantação do Lab Maker no IFSertãoPE - Campus Salgueiro. Assista as palestras e oficinas que demonstram como podemos trabalhar neste universo maker.</p>
-                <p><a href="https://www.youtube.com/watch?v=ZCfr_cNctP0&list=PLyJnePDP1voVhW1D0kXVwxzSUrZoj-Gw-" class="slider btn btn-primary" aria-label="about-us">Saiba mais</a></p>
+                <p><a href="https://www.youtube.com/watch?v=ZCfr_cNctP0&list=PLyJnePDP1voVhW1D0kXVwxzSUrZoj-Gw-" class="slider btn btn-primary" aria-label="about-us" target="_blank">Saiba mais</a></p>
               </div>
           </div>
         </div>
