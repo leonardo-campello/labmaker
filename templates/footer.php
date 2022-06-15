@@ -30,7 +30,7 @@
         <ul class="list-arrow">
             <li><a href="https://www.gprolab.org/" target="_blank">GPRO</a></li>
             <li><a href="https://www.instagram.com/gepet.ifsertaope/" target="_blank">GEPET</a></li>
-            <!-- <li><a href="#">GEASP</a></li> -->
+            <li>GEASP</li>
         </ul>
         </div><!-- Col end -->
     </div><!-- Row end -->
