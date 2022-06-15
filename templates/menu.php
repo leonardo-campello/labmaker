@@ -50,9 +50,9 @@
                           </ul>
                       </li>
 
-                      <li class="nav-item">
+                      <!-- <li class="nav-item">
                           <a href="#" class="nav-link">Agenda</a>                          
-                      </li>
+                      </li> -->
               
                       <li class="nav-item">
                           <a href="contato.php" class="nav-link">Contato</a>                          

@@ -51,11 +51,11 @@
         <div class="col-md-6">
         <div class="footer-menu text-center text-md-right">
             <ul class="list-unstyled">
-            <li><a href="#">Nossa História</a></li>
-            <li><a href="#">Equipe</a></li>
-            <li><a href="#">Agenda</a></li>
+            <li><a href="nossa-historia.php">Nossa História</a></li>
+            <li><a href="equipe.php">Equipe</a></li>
+            <!-- <li><a href="#">Agenda</a></li> -->
             <li><a href="#">Blog</a></li>
-            <li><a href="#">Contato</a></li>
+            <li><a href="contato.php">Contato</a></li>
             </ul>
         </div>
         </div>
